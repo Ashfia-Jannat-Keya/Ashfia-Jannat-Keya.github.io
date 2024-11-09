@@ -2,8 +2,8 @@
 
 ## Work Experience
 
--Lecturer, Department of CSE, Bangladesh University of Business and Technology (BUBT). (_Jan 2022 - Present_)
--Research Assistant, Department of CSE, Bangladesh University of Business and Technology (BUBT) (_June 2021 - August 2022_)
+- Lecturer, Department of CSE, Bangladesh University of Business and Technology (BUBT) (_Jan 2022 - Present_)
+- Research Assistant, Department of CSE, Bangladesh University of Business and Technology (BUBT) (_June 2021 - August 2022_)
 
 ## Education
 - M.Sc., Computer Science and Engineering |  Military Institute of Science and Technology (MIST) (Running)          	
