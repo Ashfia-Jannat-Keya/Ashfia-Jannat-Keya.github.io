@@ -34,15 +34,16 @@ deep learning,” in 2021 International Conference on Science & Contemporary Tec
 ## Awards and Grants
 ### Publication Award, BUBT Research and Innovation Centre (BRIC) (_2024_)
 ### Research Grant, Bangladesh University of Business and Technology (BUBT) (_2023_)
-- Resaerch Title: Fakestack: Hierarchical tri-bert-cnn-lstm stacked model for effective fake news
+- Research Title: Fakestack: Hierarchical tri-bert-cnn-lstm stacked model for effective fake news
   detection.
 - Total Grant Amount: Tk. 76,500 Tk. 
    
 
 ## Professional Development
 ### Workshop
-- Research Methodology and Mindset for Quality Research, Research and Publication Committee, Department of CSE, BUBT. (_2022_)
+- Research Methodology and Mindset for Quality Research, Research and Publication Committee, Department of CSE, BUBT.(_2022_)
 - Designing Complex Engineering Problems, Department of CSE, BUBT (_2023_)
+
 ### Training Program
 - Mentorship and Leadership Development Training Program, Daffodil International University. (_2021_)
 - Enhancing Students Programming Skills through Problem Solving, BUBT. (_2023_)
