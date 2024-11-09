@@ -2,12 +2,11 @@
 
 ## Work Experience
 
-**Lecturer  @ Department of CSE, Bangladesh University of Business and Technology (BUBT). (_Jan 2022 - Present_)**
-**Research Assistant  @ Department of CSE, Bangladesh University of Business and Technology (BUBT) (_June 2021 - August 2022_)**
+-Lecturer  @ Department of CSE, Bangladesh University of Business and Technology (BUBT). (_Jan 2022 - Present_)
+-Research Assistant  @ Department of CSE, Bangladesh University of Business and Technology (BUBT) (_June 2021 - August 2022_)
 
 ## Education
-- M.Sc., Computer Science and Engineering |  Military Institute of Science and
-Technology (MIST) (Running)						       		
+- M.Sc., Computer Science and Engineering |  Military Institute of Science and Technology (MIST) (Running)						     	
 - B.Sc., Computer Science and Engineering	| Bangladesh University of Business and Technology (BUBT) (_August 2021_)
 
 ## Publications
@@ -26,6 +25,7 @@ classification,” Applied Sciences, vol. 12, no. 17, p. 8398, 2022.
 breast cancer diagnosis,” Cancers, vol. 13, no. 23, p. 6116, 2021
 6. M. F. Mridha, A. J. Keya, M. A. Hamid, M. M. Monowar, and M. S. Rahman, “A comprehensive review
 on fake news detection with deep learning,” IEEE access, vol. 9, pp. 156 151–156 170, 2021.
+
 ### Conference Proceedings
 1. A. J. Keya, S. Afridi, A. S. Maria, S. S. Pinki, J. Ghosh, and M. Mridha, “Fake news detection based on
 deep learning,” in 2021 International Conference on Science & Contemporary Technologies (ICSCT), IEEE,
